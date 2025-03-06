@@ -1,4 +1,4 @@
-#import "Tweak.h"
+#import "PanCake.h"
 
 
 HBPreferences *preferences;
