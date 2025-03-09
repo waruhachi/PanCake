@@ -16,7 +16,7 @@ static NSInteger headerPaddingLeftRight = 10;
         appearanceSettings.tableViewCellSeparatorColor = [UIColor colorWithWhite:0 alpha:0];
         appearanceSettings.navigationBarBackgroundColor = [self getHeaderColorFromColor:headerColor];
         appearanceSettings.tintColor = headerColor;
-        appearanceSettings.statusBarTintColor = [UIColor whiteColor];
+        appearanceSettings.statusBarStyle = UIStatusBarStyleLightContent;
         appearanceSettings.navigationBarTintColor = [UIColor whiteColor];
         appearanceSettings.navigationBarTitleColor = [UIColor whiteColor];
 

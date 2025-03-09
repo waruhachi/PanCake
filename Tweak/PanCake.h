@@ -1,4 +1,5 @@
 #import <roothide.h>
+#import <UIKit/UIKit.h>
 #import <Cephei/HBPreferences.h>
 #import <Foundation/Foundation.h>
 
